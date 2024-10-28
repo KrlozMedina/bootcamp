@@ -1,7 +1,0 @@
-{
-  "compilerOptions": {
-    "paths": {
-      "exercise-02/*": ["./src/*"]
-    }
-  }
-}
